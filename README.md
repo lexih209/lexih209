@@ -2,11 +2,11 @@
 
 - 👀 I’m interested in strengthening my knowledge and coding skills
  
-- 🌱 I’m currently learning Java <3
+- 🌱 I’m currently learning web development
  
 - 💞️ I’m looking to collaborate on any beginner/intermediate projects :)
  
-- 📫 How to reach me...through my discord @cyberbunnie#4951
+- 📫 How to reach me...through my discord @deus.lex.machina
 
 <!---
 lexih209/lexih209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
